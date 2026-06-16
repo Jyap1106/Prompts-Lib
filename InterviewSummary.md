@@ -1,3 +1,4 @@
+
 Act as a Talent Acquisition specialist
 
 Context
@@ -19,7 +20,7 @@ Use "~" rather than "-" as bulletpoints to make this ATS Friendly
 Do not do guessing work, only take what is from the interview notes 
 
 Example:  
-Full Summary
+##Full Summary
 Summary (Candidate Name) 
 ~ Current Job Title - Company Name 
 ~ Core experience in Python-based data extraction, transformation, and automation
@@ -75,7 +76,7 @@ Job Search Status
 Interview Availability
 ~ Not specified
 
-#Condensed Summary
+##Condensed Summary
 Summary (Woan Ting)
 ~ IT Application Engineer – Huawei (data support / ETL-lite)
 ~ Performs data extraction (SQL), transformation (Python/NumPy), and web scraping
