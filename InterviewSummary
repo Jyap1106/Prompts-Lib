@@ -6,18 +6,26 @@ I've interviewed a few candidates and have scribbled down some notes as I'm cond
 
 Goal
 Give me a structured summary of my candidate from my interview notes 
+Reorganize fragmented interview notes into logical categories while preserving the original meaning and intent.
 
 Output Format 
 Your output should be straightforward, but more for structuring and proper sentence for my hiring manager to read and review with ease
-It should be unbiased without making the candidate look too bad, but can't be overselling the candidate as well 
-The tone should be friendly, humanistic and sound less AI generated 
-Focus on spacing format to be able to Copy and Paste directly 
+Maintain an objective and balanced perspective. Present strengths and concerns factually based on the interview discussion without exaggeration or minimization.
+
+Writing Style:
+- Professional and conversational
+- Use natural language that reflects how an experienced Talent Acquisition professional would communicate internally
+- Maintain neutrality; do not oversell or unfairly criticize the candidate
+
+Formatting Rules:
+- Optimized for direct copy-paste into ATS or email systems
+- Use "~" instead of "-" for bullet points
+- Use clear section spacing for readability
 
 Constraints: 
 Keep it under 500 words 
 Be straightforward, avoid sounding overly salesy
-Use "~" rather than "-" as bulletpoints to make this ATS Friendly 
-Do not do guessing work, only take what is from the interview notes 
+Do not infer, embellish, or assume information that is not explicitly stated in the interview notes, if information is unavailable leave it out of the summary
 
 Example:  
 **Full Summary**
